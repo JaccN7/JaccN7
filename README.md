@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/app.gif" alt="JaccN7Profile" width="400"/>
+  <img src="./img/app.gif" alt="JaccN7Profile" width="350"/>
   &#xa0;
   <!-- <a href="https://miperfilgithub.netlify.app">Demo</a> -->
   <h1 align="center">¡Hey 👋!, Soy JaccN7 👨🏻‍💻</h1>
