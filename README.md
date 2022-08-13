@@ -135,12 +135,12 @@
 ## :octocat: Estadísticas GitHub ##
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="416"/> &nbsp;
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="500"/>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="316"/> &nbsp;
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="390"/>
 </p>
 </br></br></br></br></br></br></br>
 <div align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" width="500" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" width="450" />
 </div>
 
 &#xa0;
