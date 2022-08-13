@@ -32,7 +32,7 @@
 
 ## :rocket: Lenguajes y Herramientas ##
 
-<div>
+<div align="center">
 	<table> 
 		<thead>
 			<tr>
@@ -84,7 +84,7 @@
 	</table>
 </div>
 
-<div>
+<div align="center">
 	<table>
 		<thead>
 			<tr>
@@ -126,7 +126,7 @@
 
 ## :trophy: Trofeos Github ##
 
-<p align="left"> 
+<p align="center"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
 		<img src="https://github-profile-trophy.vercel.app/?username=jaccn7&theme=onedark" alt="jaccn7" />
 	</a> 
@@ -134,8 +134,8 @@
 
 ## :octocat: Estadísticas GitHub ##
 
-<p align="left">
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="325"/> &nbsp;
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="325"/> &nbsp;
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="390"/>
 </p>
 &#xa0;
