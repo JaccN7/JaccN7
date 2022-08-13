@@ -30,9 +30,6 @@
 	</p>
 </div>
 
-
-<!-- :sparkles: Lenguajes y Herramientas -->
-
 ## :rocket: Lenguajes y Herramientas ##
 
 <div>
@@ -138,18 +135,16 @@
 ## :octocat: Estadísticas GitHub ##
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="350"/>
-</p>
-
-<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="335"/>
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="400"/>
 </p>
-
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" />
+</br></br></br></br></br></br></br>
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" width="400" />
 </p>
 
-
 &#xa0;
-
+<div align="center">
 <a href="#top">Volver arriba</a>
+</div>
+
