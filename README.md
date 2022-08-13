@@ -145,14 +145,14 @@
 ## :octocat: Estadísticas GitHub ##
 
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" />
 </p>
 
-<p>&nbsp;
+<p>
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" />
 </p>
 
-<p>&nbsp;
+<p>
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" />
 </p>
 
