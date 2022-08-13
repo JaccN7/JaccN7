@@ -23,9 +23,9 @@
 ## :dart: Sobre mí ##
 <!-- imagen circular-->
 
-<div align="left">
-	<img src="./img/JaccN7.png" alt="javascript" width="150" height="150"/>  
-	<p>Hola, mi nombre es Javiera Cortés (JaccN7), soy ingeniera informática y desarrolladora. &nbsp;   
+<div>
+	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="160" height="160"/></p>  
+	<p align="center">Mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora. &nbsp;   
 		<a href="https://linkedin.com/in/https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jcortesceledon/" height="15" width="15" /></a>
 	</p>
 </div>
@@ -134,17 +134,13 @@
 
 ## :octocat: Estadísticas GitHub ##
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="316"/> &nbsp;
-	<img align="right" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="390"/>
+<p align="left">
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="325"/> &nbsp;
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="390"/>
 </p>
-</br></br></br></br></br></br></br>
-<div align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaccn7&" alt="jaccn7" width="450" />
-</div>
-
 &#xa0;
-<div align="center">
-<a href="#top">Volver arriba</a>
-</div>
 
+##
+<p align="center">
+<a href="#top">Volver arriba</a>
+</p>
