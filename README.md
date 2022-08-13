@@ -1,14 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./img/app.gif" alt="JaccN7Profile" />
-
+  <img src="./img/app.gif" alt="JaccN7Profile" width="400"/>
   &#xa0;
-
   <!-- <a href="https://miperfilgithub.netlify.app">Demo</a> -->
+  <h1 align="center">¡Hey 👋!, Soy JaccN7 👨🏻‍💻</h1>
 </div>
-
-
-<h1 align="center">¡Hey 👋!, Soy JaccN7 👨🏻‍💻</h1>
-
 <!-- Status -->
 
 <!-- <h4 align="center"> 
@@ -24,8 +19,6 @@
   <a href="#octocat-estadísticas-github">Estadísticas github</a> &#xa0; | &#xa0;
   <a href="https://github.com/JaccN7" target="_blank">Perfil</a>
 </p>
-
-<br>
 
 ## :dart: Sobre mí ##
 <!-- imagen circular-->
@@ -145,11 +138,11 @@
 ## :octocat: Estadísticas GitHub ##
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaccn7&show_icons=true&locale=en&layout=compact" alt="jaccn7" width="350"/>
 </p>
 
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=jaccn7&show_icons=true&locale=en" alt="jaccn7" width="400"/>
 </p>
 
 <p>
