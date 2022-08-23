@@ -15,7 +15,6 @@
 <p align="center">
   <a href="#dart-sobre-mí">Sobre mí</a> &#xa0; | &#xa0; 
   <a href="#rocket-lenguajes-y-herramientas">Lenguajes y Herramientas</a> &#xa0; | &#xa0;
-  <a href="#trophy-trofeos-github">Trofeos Github</a> &#xa0; | &#xa0;
   <a href="#octocat-estadísticas-github">Estadísticas github</a> &#xa0; | &#xa0;
   <a href="https://github.com/JaccN7" target="_blank">Perfil</a>
 </p>
@@ -124,20 +123,18 @@
 	</table>
 </div>
 
-## :trophy: Trofeos Github ##
-
-<p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=JaccN7&&theme=darkhub" alt="Trophies Jaccn7" />
-	</a> 
-</p>
-
 ## :octocat: Estadísticas GitHub ##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=es&hide_border=true&username=JaccN7" height="150" alt="Stats Graph JaccN7"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=true&username=JaccN7" height="150" alt="languages Graph JaccN7"  />
 </div>
+
+<!-- <div align="center"> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy">
+		<img src="https://github-profile-trophy.vercel.app/?username=JaccN7&&theme=darkhub" alt="Trophies Jaccn7" />
+	</a> 
+</div> -->
 
 ###
 &#xa0;
