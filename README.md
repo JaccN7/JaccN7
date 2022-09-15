@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./img/app.gif" alt="JaccN7Profile" width="350"/>
   &#xa0;
-  <!-- <a href="https://miperfilgithub.netlify.app">Demo</a> -->
+
   <h1 align="center">¡Hey 👋!, Soy JaccN7 👾</h1>
 </div>
 <!-- Status -->
@@ -16,7 +16,7 @@
   <a href="#dart-sobre-mí">Sobre mí</a> &#xa0; | &#xa0; 
   <a href="#rocket-lenguajes-y-herramientas">Lenguajes y Herramientas</a> &#xa0; | &#xa0;
   <a href="#octocat-estadísticas-github">Estadísticas github</a> &#xa0; | &#xa0;
-  <a href="https://github.com/JaccN7" target="_blank">Perfil</a>
+  <a href="https://github.com/JaccN7](https://www.linkedin.com/in/jcortesceledon/" target="_blank">Perfil</a>
 </p>
 
 ## :dart: Sobre mí ##
