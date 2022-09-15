@@ -16,7 +16,7 @@
   <a href="#dart-sobre-mí">Sobre mí</a> &#xa0; | &#xa0; 
   <a href="#rocket-lenguajes-y-herramientas">Lenguajes y Herramientas</a> &#xa0; | &#xa0;
   <a href="#octocat-estadísticas-github">Estadísticas github</a> &#xa0; | &#xa0;
-  <a href="https://github.com/JaccN7](https://www.linkedin.com/in/jcortesceledon/" target="_blank">Perfil</a>
+  <a href="https://www.linkedin.com/in/jcortesceledon/" target="_blank">Perfil</a>
 </p>
 
 ## :dart: Sobre mí ##
