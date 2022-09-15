@@ -25,7 +25,7 @@
 <div>
 	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="160" height="160"/></p>  
 	<p align="center">Mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora. &nbsp;   
-		<a href="https://linkedin.com/in/https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jcortesceledon/" height="15" width="15" /></a>
+		<a href="https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcortesceledon/" height="15" width="15" /></a>
 	</p>
 </div>
 
