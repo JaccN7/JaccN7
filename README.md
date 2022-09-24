@@ -2,7 +2,7 @@
   <img src="./img/app.gif" alt="JaccN7Profile" width="350"/>
   &#xa0;
 
-  <h1 align="center">¡Hey 👋!, Soy JaccN7 👾</h1>
+  <h1 align="center">👩‍💻 JaccN7 👾</h1>
 </div>
 <!-- Status -->
 
@@ -24,7 +24,7 @@
 
 <div>
 	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="160" height="160"/></p>  
-	<p align="center">Mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora. &nbsp;   
+	<p align="center">Hola, mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora 👩‍💻. &nbsp;   
 		<a href="https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcortesceledon/" height="15" width="15" /></a>
 	</p>
 </div>
