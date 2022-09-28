@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/app.gif" alt="JaccN7Profile" width="300"/>
+  <img src="./img/app.gif" alt="JaccN7Profile" width="280"/>
   &#xa0;
 
   <h1 align="center">👾 JaccN7 👾</h1>
@@ -23,7 +23,7 @@
 <!-- imagen circular-->
 
 <div>
-	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="120" height="120"/></p>  
+	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="110"/></p>  
 	<p align="center">Hola, mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora 👩‍💻.</p>
 		<p align="center">Soy aficionada a los temas relacionados con tecnología 💻🤖, jugar videojuegos 🎮, ver anime y leer mangas, novelas o libros👓.&nbsp;   
 		<a href="https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcortesceledon/" height="15" width="15" /></a>
@@ -39,7 +39,6 @@
 				<th>Lenguajes de Programación</th>
 				<th>Frontend</th>
 				<th>Backend</th>
-				<th>Apps. móviles</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -73,12 +72,7 @@
 					<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 						<img src="https://progsoft.net/images/expressjs-icon-f4b1ca110af85bc084ca10fad689ab5488db40c7.png" alt="express" width="40" height="40"/> 
 					</a>
-				</td>
-				<td align="center">
-				<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-				</a>
-				</td>
+				</td>	
 			</tr>
 		</tbody>
 	</table>
@@ -88,13 +82,18 @@
 	<table>
 		<thead>
 			<tr>
+				<th>Apps. móviles</th>
 				<th>Base de datos</th>
-				<th>Backend como servicio (BaaS)</th>
-				<th>Control de Versiones</th>
+				<th>Versionado</th>
 			</tr>
 		</thead>
 		<tbody>
 			<tr>
+				<td align="center">
+				<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+				</a>
+				</td>
 				<td align="center">
 					<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -104,11 +103,6 @@
 					</a> 
 					<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 						<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-					</a> 
-				</td>
-				<td align="center">
-					<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
 					</a> 
 					<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
 						<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
