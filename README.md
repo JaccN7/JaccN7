@@ -1,8 +1,8 @@
 <div align="center" id="top"> 
-  <img src="./img/app.gif" alt="JaccN7Profile" width="350"/>
+  <img src="./img/app.gif" alt="JaccN7Profile" width="300"/>
   &#xa0;
 
-  <h1 align="center">👩‍💻 JaccN7 👾</h1>
+  <h1 align="center">👾 JaccN7 👾</h1>
 </div>
 <!-- Status -->
 
@@ -23,7 +23,7 @@
 <!-- imagen circular-->
 
 <div>
-	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="160" height="160"/></p>  
+	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="120" height="120"/></p>  
 	<p align="center">Hola, mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora 👩‍💻.</p>
 		<p align="center">Soy aficionada a los temas relacionados con tecnología 💻🤖, jugar videojuegos 🎮, ver anime y leer mangas, novelas o libros👓.&nbsp;   
 		<a href="https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcortesceledon/" height="15" width="15" /></a>
