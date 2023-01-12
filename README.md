@@ -13,22 +13,14 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-sobre-mí">Sobre mí</a> &#xa0; | &#xa0; 
+  <!-- <a href="#dart-sobre-mí">Sobre mí</a> &#xa0; | &#xa0; -->
   <a href="#rocket-lenguajes-y-herramientas">Lenguajes y Herramientas</a> &#xa0; | &#xa0;
   <a href="#octocat-estadísticas-github">Estadísticas github</a> &#xa0; | &#xa0;
   <a href="https://www.linkedin.com/in/jcortesceledon/" target="_blank">Perfil</a>
 </p>
 
-## :dart: Sobre mí ##
+<!--  ## :dart: Sobre mí ## -->
 <!-- imagen circular-->
-
-<div>
-	<p align="center"><img src="./img/JaccN7.png" alt="JaccN7" width="110"/></p>  
-	<p align="center">Hola, mi nombre es Javiera Cortés Celedón (JaccN7), soy ingeniera informática y desarrolladora 👩‍💻.</p>
-		<p align="center">Soy aficionada a los temas relacionados con tecnología 💻🤖, jugar videojuegos 🎮, ver anime y leer mangas, novelas o libros👓.&nbsp;   
-		<a href="https://www.linkedin.com/in/jcortesceledon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcortesceledon/" height="15" width="15" /></a>
-	</p>
-</div>
 
 ## :rocket: Lenguajes y Herramientas ##
 
@@ -121,7 +113,7 @@
 ## :octocat: Estadísticas GitHub ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=380&langs_count=10&theme=midnight-purple&hide_border=true&username=JaccN7" height="150" alt="languages Graph JaccN7"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=compact&card_width=380&langs_count=10&theme=midnight-purple&hide_border=true&username=JaccN7" height="200" alt="languages Graph JaccN7"  />
 </div>
 
 <!-- <div align="center"> 
