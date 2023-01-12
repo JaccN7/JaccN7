@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/app.gif" alt="JaccN7Profile" width="280"/>
+  <img src="./img/app.gif" alt="JaccN7Profile" width="350"/>
   &#xa0;
 
   <h1 align="center">👾 JaccN7 👾</h1>
